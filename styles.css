@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+body {
+    font-family:" segoe UI";
+    font-weight: 400;
+    background-color: aliceblue;
+}
+
+.header{
+    padding: 40px;
+    background-color: brown;
+}
+.header ul{
+    margin-top: 0;
+    padding: 0;
+    list-style:none;
+    color: aliceblue;
+    font-size: 14px;
+    line-height: 4;
+    margin-bottom: 0;
+    text-align: center;
+}
+.header ul li{
+    margin-top: 0;
+    padding: 0 15;
+    display: inline-block 
+}
+.header ul li:hover{
+    opacity: 2;
+
+}
+
+
